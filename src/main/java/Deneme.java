@@ -5,6 +5,7 @@ public class Deneme {
         System.out.println("b129");
         System.out.println("direnc git push");
         //oldu maşallah ;)
+        System.out.println("branch olusturma");
 
     }
 }
